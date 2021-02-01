@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Willers</h1>
-<h3 align="center">A passionate student from Brazil and aspirant software developer</h3>
+<h3 align="center">A student from Brazil and aspirant software developer</h3>
 
 <h2 align="left">About:</h2>
 
