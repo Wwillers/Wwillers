@@ -6,7 +6,6 @@
 - :heart: I'm a passionate about tecnologies and love to learn new things. 
 - 🌱 I’m currently learning **adonisJS**
 - :musical_note: Music + Dev = :heart:
--  :computer: I'm looking for a half-time job or internship program
 -  :books: <a href="https://www.betrybe.com/">Trybe</a> Student
 
 <h3 align="left">Connect with me:</h3>
