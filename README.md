@@ -4,7 +4,6 @@
 <h2 align="left">About:</h2>
 
 - :heart: I'm a passionate about tecnologies and love to learn new things. 
-- 🌱 I’m currently learning **adonisJS**
 - :musical_note: Music + Dev = :heart:
 -  :books: <a href="https://www.betrybe.com/">Trybe</a> Student
 
