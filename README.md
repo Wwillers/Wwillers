@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm William Willers</h1>
-<h3 align="center">A student from Brazil and aspirant software developer</h3>
+<h3 align="center">Student and Software Developer from Brazil</h3>
 
 <h2 align="left">About:</h2>
 
 - :heart: I'm a passionate about tecnologies and love to learn new things. 
 - :musical_note: Music + Dev = :heart:
 - :books: <a href="https://www.betrybe.com/">Trybe</a> Student
+- 💻 I currently work as a Java developer
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
