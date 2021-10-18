@@ -6,7 +6,6 @@
 
 - :heart: Adoro desenvolver soluções que agregam valor e estou sempre em busca de novos conhecimentos e desafios :muscle:. 
 - :musical_note: Amo ouvir música e codar :heart:
-- :books: <a href="https://www.betrybe.com/">Trybe</a> Student
 - 💻 Atualmente estou trabalhando como Desenvolvedor Java :coffee:
 
 <h3 align="left">Minhas redes sociais:</h3>
@@ -27,10 +26,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  
-  <img alt="AmazonAWS" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 <div align="center">
