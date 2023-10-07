@@ -6,9 +6,9 @@
 
 - Atualmente estou me especializando em desenvolver aplicações escaláveis, performáticas, resilientes e seguras com foco em Java, ecossistema Spring e microsserviços.
 - As vezes me aventuro no mundo front, principalmente com Angular que particularmente curto bastante. Sou versátil para utilizar novas tecnologias.
-- Meu objetivo é construir uma carreira em T e aprofundar conhecimento no que faço para me tornar Tech Lead. 
+- Meu objetivo é construir uma carreira em T. 
 
-- 💻 Atualmente estou trabalhando como Desenvolvedor Java :coffee:
+- 💻 Atualmente estou trabalhando como Tech Lead :coffee:
 
 <h3 align="left">Minhas redes sociais:</h3>
   <p align="left">
@@ -22,7 +22,6 @@
 <h3 align="left">Principais itens da caixinha de ferramentas :toolbox::</h3>
 <p align="left"> 
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   
   <img alt="AmazonAWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
