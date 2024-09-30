@@ -1,14 +1,10 @@
 <h1 align="center">Olá! Eu sou o William Willers :smile:</h1>
 
-<h3 align="center">Java Software Developer</h3>
-
 <h2 align="left">Sobre:</h2>
 
-- Atualmente estou me especializando em desenvolver aplicações escaláveis, performáticas, resilientes e seguras com foco em Java, ecossistema Spring e microsserviços.
-- As vezes me aventuro no mundo front, principalmente com Angular que particularmente curto bastante. Sou versátil para utilizar novas tecnologias.
-- Meu objetivo é construir uma carreira em T. 
+Atualmente, lidero a equipe técnica na Meetime, coordenando o desenvolvimento de soluções de alta qualidade para atender às necessidades estratégicas do negócio. Sou responsável pela arquitetura e implementação de sistemas escaláveis, performáticos, resilientes e seguros, utilizando tecnologias como Java, Spring, AngularJS, Google Cloud e AWS.
 
-- 💻 Atualmente estou trabalhando como Tech Lead :coffee:
+Focado na excelência técnica e inovação, trabalho diariamente para garantir que nossa equipe entregue produtos robustos e eficientes. Meu objetivo é sempre alinhar tecnologia com estratégia de negócios, promovendo práticas de desenvolvimento ágil, incentivando a melhoria contínua e desenvolvendo um ambiente colaborativo e orientado a resultados.
 
 <h3 align="left">Minhas redes sociais:</h3>
   <p align="left">
@@ -18,7 +14,7 @@
     </a>
   </p>
 
-
+<!--
 <h3 align="left">Principais itens da caixinha de ferramentas :toolbox::</h3>
 <p align="left"> 
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -29,7 +25,7 @@
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </p>
-
+-->
 <div align="center">
   <a href="https://github.com/Wwillers">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wwillers&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
